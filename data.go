@@ -4,6 +4,9 @@ import (
 	"context"
 	"fmt"
 	"os"
+
+	"://github.com"
+	"://github.com"
 )
 
 // DataTier kapselt den AWS S3 Client

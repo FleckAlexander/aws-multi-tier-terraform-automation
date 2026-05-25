@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	"://github.com"
-	"://github.com"
+	"github.com/aws/aws-sdk-go-v2/config"
+    "github.com/aws/aws-sdk-go-v2/service/s3"
 )
 
 // DataTier kapselt den AWS S3 Client
